@@ -1,0 +1,9 @@
+COPYING
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Gopher/Mechanize.pm
+lib/Gopher/Mechanize/Cache.pm
+lib/Gopher/Mechanize/History.pm
+test.pl

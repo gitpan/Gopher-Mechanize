@@ -1,0 +1,35 @@
+Gopher::Mechanize version 0.27
+================================================================================
+
+Gopher::Mechanize is screen scraper for Gopher. Run:
+ $ perldoc Gopher::Mechanize
+for usage after installation.
+
+
+INSTALLATION
+
+
+To install this module type the following:
+
+ perl Makefile.PL
+ make
+ make test
+ make install
+
+
+DEPENDENCIES
+
+
+This module requires these other modules and libraries:
+
+ Net::Gopher (version 0.92+);
+
+
+COPYRIGHT AND LICENSE
+
+
+Copyright 2003 by William G. Davis.
+
+This code is free software released under the GNU General Public  License,  the
+full terms of which can be found in the "COPYING" file in this directory.
+
